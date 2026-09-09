@@ -236,3 +236,6 @@ This repository serves as the official landing page for Sonic The Hedgehog 2. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sonic The Hedgehog 2 today!**
+
+---
+**Last updated:** 2026-09-09 14:56:09 UTC
